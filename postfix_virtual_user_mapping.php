@@ -87,6 +87,7 @@ class postfix_virtual_user_mapping extends rcube_plugin
                     $this->writeLog('Rewrote username ' . $email . ' with ' . $matches['username']);
                 }
             }
+        }
 
         return $loginData;
     }
