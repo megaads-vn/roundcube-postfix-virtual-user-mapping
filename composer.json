@@ -1,5 +1,5 @@
 {
-    "name": "gdr/postfix-virtual-user-mapping",
+    "name": "megaads/postfix-virtual-user-mapping",
     "type": "roundcube-plugin",
     "description": "Log in with email instead of username, mapping via Postfix virtual users table",
     "license": "GNU GPLv3+",
@@ -14,6 +14,11 @@
             "name": "Pierre Arlt",
             "email": "info@pierrearlt.com",
             "role": "Plugin based on Pierre's work"
+        },
+        {
+            "name": "MegaAds Ltd",
+            "email": "info@megaads.vn",
+            "role": "Folker"
         }
     ],
     "repositories": [
