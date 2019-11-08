@@ -2,7 +2,7 @@
     "name": "megaads/postfix-virtual-user-mapping",
     "type": "roundcube-plugin",
     "description": "Log in with email instead of username, mapping via Postfix virtual users table",
-    "license": "GNU GPLv3+",
+    "license": "MIT",
     "version": "1.0",
     "authors": [
         {
